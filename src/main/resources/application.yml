@@ -1,0 +1,8 @@
+spring:
+  influx:
+    url: http://localhost:8086
+    token: g4NYQIoC8s2i5lgai5eDhq9t_gHRDvz3YTKvN87V8VdIYm-Auw-qjZOmR_5I67rJkW_qjm_91KChd586Uy5DIg==
+    org: testOrganization
+    bucket: testOne
+server:
+  port: 8081
